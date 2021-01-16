@@ -4,4 +4,4 @@ Workdpace Staging area Local Repo git remote add origin &amp;lt;url&amp;gt; to p
 You might want to add your details before going further
 git config --global user.name &amp;quot;Your Name Comes Here&amp;quot; git config --global user.email you@yourdomain.example.com
 git add . takes snapshot in a temporary staging area called &amp;lsquo;index&amp;rsquo; i.</description></item><item><title>Introduction</title><link>https://satacker.github.io/posts/introduction/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://satacker.github.io/posts/introduction/</guid><description>Greeting! This is an introduction post. This post tests the followings:
-Hero image is in the same directory as the post. This post should be at top of the sidebar. Post author should be the same as specified in author.yaml file.</description></item></channel></rss>
+Hire image is in the same directory as the post. This post should be at top of the sidebar. Post author should be the same as specified in author.yaml file.</description></item></channel></rss>
